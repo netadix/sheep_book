@@ -17,20 +17,40 @@ Platform assembly: C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep
 Loading C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.454 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
+- Completed reload, in  0.410 seconds
 Platform assembly: C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Public\Documents\Unity Projects\sheepbook\straysheep_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 48Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.269302 ms
+UnloadTime: 3.755042 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.216739 ms
+UnloadTime: 37.887600 ms
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2164.
-Total: 1.343808 ms (FindLiveObjects: 0.097415 ms CreateObjectMapping: 0.100436 ms MarkObjects: 0.875231 ms  DeleteObjects: 0.263928 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2318.
+Total: 5.064492 ms (FindLiveObjects: 0.372672 ms CreateObjectMapping: 0.517663 ms MarkObjects: 2.821662 ms  DeleteObjects: 1.350606 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.273976 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2633.
+Total: 5.241578 ms (FindLiveObjects: 0.612813 ms CreateObjectMapping: 0.409297 ms MarkObjects: 3.320446 ms  DeleteObjects: 0.896377 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.777954 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 10.182601 ms (FindLiveObjects: 0.598465 ms CreateObjectMapping: 0.764601 ms MarkObjects: 6.443418 ms  DeleteObjects: 2.373096 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.601246 ms
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2636.
+Total: 5.459064 ms (FindLiveObjects: 0.407409 ms CreateObjectMapping: 0.428176 ms MarkObjects: 3.844528 ms  DeleteObjects: 0.777061 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 46c4 -> priority: 1 
-  Thread -> id: 7f28 -> priority: 1 
+  Thread -> id: 5690 -> priority: 1 
+  Thread -> id: b95c -> priority: 1 
